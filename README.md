@@ -4,7 +4,7 @@ Simply click the `<> Code` button, then the `Downlaod ZIP` button.
 
 ![A screenshot showing the instructions above.](/docs/download_instructions.png)
 
-Then, extract the zip and put it in your avatars folder.
+Then, put the zip in your avatars folder. Have fun!
 
 # More info
 
