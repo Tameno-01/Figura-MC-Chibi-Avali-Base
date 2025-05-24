@@ -8,4 +8,4 @@ Then, extract the zip and put it in your avatars folder.
 
 # More info
 
-- [Recoloring without redoing shading](docs\auto_shading.md)
+- [Recoloring without redoing shading](/docs/auto_shading.md)
