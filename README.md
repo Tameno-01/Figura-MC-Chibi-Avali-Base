@@ -8,4 +8,4 @@ Then, put the zip in your avatars folder. Have fun!
 
 # More info
 
-- [Recoloring without redoing shading](/docs/auto_shading.md)
+- [Retexturing without redoing shading](/docs/auto_shading.md)
