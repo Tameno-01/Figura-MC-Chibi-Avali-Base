@@ -9,4 +9,4 @@ Simply do the following
 1. Export the image
 1. Set it as the texture in blockbench
 
-If you wand an unshaded texture to start with, you can get it [here](/images/albedo.png).
+If you wand an unshaded texture to start with, you can get one [here](/images/albedo.png).
