@@ -1,0 +1,1 @@
+# figura_mc_chibi_avali_base
