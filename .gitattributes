@@ -1,2 +1,8 @@
 # Normalize EOL for all files that Git considers text files.
 * text=auto eol=lf
+
+# Ignore some files when exporting.
+# Only include the avatar folder when downloading from GitHub.
+/**        export-ignore
+/avatar    !export-ignore
+/avatar/** !export-ignore
